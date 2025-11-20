@@ -1,5 +1,5 @@
 uploads/*
 DB/*
-application/config/database.php
-application/config/constants.php
-application/config/config.php
+# application/config/database.php
+# application/config/constants.php
+# application/config/config.php
