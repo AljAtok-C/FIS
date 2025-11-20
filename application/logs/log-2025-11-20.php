@@ -36,3 +36,6 @@ INNER JOIN `stores_tbl` `e` ON `a`.`store_id` = `e`.`store_id`
 INNER JOIN `incentive_hurdles_tbl` `f` ON `a`.`incentive_id` = `f`.`incentive_id`
 INNER JOIN `material_groups_tbl` `g` ON `f`.`mat_group_id` = `g`.`mat_group_id`
 ORDER BY `a`.`incentive_code`
+ERROR - 2025-11-20 17:08:46 --> Severity: Notice --> Undefined variable: js_file D:\Users\Projects\fis\application\views\admin\templates.php 485
+ERROR - 2025-11-20 17:08:46 --> Severity: Notice --> Undefined variable: js_file D:\Users\Projects\fis\application\views\admin\templates.php 485
+ERROR - 2025-11-20 17:08:46 --> Severity: Notice --> Undefined variable: js_file D:\Users\Projects\fis\application\views\admin\templates.php 485

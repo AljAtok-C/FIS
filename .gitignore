@@ -3,3 +3,6 @@ DB/*
 # application/config/database.php
 # application/config/constants.php
 # application/config/config.php
+application/logs/*
+!application/logs/index.html
+application/fis-sys-sess/*
