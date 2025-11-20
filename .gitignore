@@ -1,4 +1,4 @@
-uploads/*
+# uploads/*
 DB/*
 # application/config/database.php
 # application/config/constants.php
